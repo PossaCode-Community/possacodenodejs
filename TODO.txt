@@ -1,0 +1,12 @@
+
+Gestion des tâches :
+
+    -Création d'une nouvelle tâche avec un titre, une description et une date d'échéance.
+    -Affichage de toutes les tâches de l'utilisateur connecté.
+    -Modification d'une tâche existante (titre, description, date d'échéance, statut).
+    -Suppression d'une tâche.
+
+Filtrage des tâches :
+
+    -Affichage des tâches en fonction de leur statut (en cours, terminée, en attente, etc.).
+    -Affichage des tâches par date d'échéance (prochaines échéances en haut).
